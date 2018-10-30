@@ -1,3 +1,3 @@
-#k Nearest Neighbours Algorithm
+# k Nearest Neighbours Algorithm
 Paweł Gancarczyk\
 Łukasz Balon
